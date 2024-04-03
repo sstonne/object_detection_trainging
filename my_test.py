@@ -1,6 +1,7 @@
 # Inference for ONNX model
 
 import cv2
+import os
 cuda = True
 w = "yolov7-tiny.onnx"
 #img = cv2.imread('horses.jpg')  # image-based execute!
